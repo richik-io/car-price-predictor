@@ -41,7 +41,6 @@ six
 stack-data
 threadpoolctl
 tornado
-typing-extension
 tzdata
 wcwidth
 werkzeug
